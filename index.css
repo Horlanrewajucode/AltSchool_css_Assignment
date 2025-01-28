@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background-image: url(./ASSESSTS/IMAGES/123.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+header {
+  > h1 {
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    margin-top: 50px;
+    font-weight: 800;
+  }
+
+  > h2 {
+    text-align: center;
+    color: black;
+    font-style: italic;
+    font-size: 40px;
+    margin-top: 50px;
+    font-weight: 800;
+  }
+}
+section {
+  > p {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    margin-top: 50px;
+    font-weight: 800;
+  }
+  > a{
+    text-align: center;
+    color: black;
+    background-color: darkorange;
+    text-decoration: none;
+    border: none;
+    padding: 12px 24px;
+    font-size: 20px;
+    border-radius: 50px;
+    position: relative;
+    top: 50px;
+    left: 100px;
+    margin: 0 10px;
+    font-size: 25px;
+  }
+}
