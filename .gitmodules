@@ -1,0 +1,18 @@
+[submodule "Otter-Essay"]
+	path = Otter-Essay
+	url = https://github.com/Horlanrewajucode/Otter-Essay.git
+[submodule "Huckleberry"]
+	path = Huckleberry
+	url = https://github.com/Horlanrewajucode/Huckleberry.git
+[submodule "Novus-watch"]
+	path = Novus-watch
+	url = https://github.com/Horlanrewajucode/Novus-watch.git
+[submodule "Web-development-training-formg-"]
+	path = Web-development-training-formg-
+	url = https://github.com/Horlanrewajucode/Web-development-training-formg-.git
+[submodule "wp-pusher"]
+	path = wp-pusher
+	url = https://github.com/Horlanrewajucode/wp-pusher.git
+[submodule "Scissors"]
+	path = Scissors
+	url = https://github.com/Horlanrewajucode/Scissors.git
